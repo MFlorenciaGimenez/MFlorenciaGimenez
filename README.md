@@ -32,9 +32,8 @@ Passionate about logic, structure, and the challenge of making things work in th
 
 ## 🤝 Let's Connect
 
-* [LinkedIn](https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/florencia-gimenez-745737299/)
-* [Email](florgimenez14@hotmail.com)
-
+* [LinkedIn](https://www.linkedin.com/in/florencia-gimenez-745737299/)
+* [Email](mailto:florgimenez14@hotmail.com)
 ---
 
 ✨ Every new challenge is an opportunity to learn, grow, and get closer to becoming the professional I aim to be.
