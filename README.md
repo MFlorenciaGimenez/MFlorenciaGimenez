@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Hi, I'm Florencia Gimenez
 
-<!--
-**MFlorenciaGimenez/MFlorenciaGimenez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Full Stack Developer | Backend-Oriented**
+Passionate about logic, structure, and the challenge of making things work in the best possible way.
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Languages:** JavaScript | TypeScript
+* **Backend:** Node.js | Nest.js | Express
+* **Frontend:** React | HTML | CSS
+* **Databases:** PostgreSQL | SQL
+* **Others:** Git | GitHub | Agile Methodologies
+
+## 🌱 About Me
+
+* Currently completing an intensive **Henry Bootcamp** as a Full Stack Developer with a focus on **Backend**.
+* Highly motivated to keep learning, building, and improving every day.
+* Strong foundation in **logical thinking and problem-solving** from my Engineering studies (UNLP).
+* English level: **C2 Proficient (EF SET Certificate)**.
+
+## 💡 Interests
+
+* Backend Development
+* API design and integration
+* Software architecture
+* Database optimization and management
+
+## 📂 Featured Projects
+
+🔹 [Henry Bootcamp Projects](https://github.com/MFlorenciaGimenez)
+(Here you’ll find individual and group projects where I applied new technologies and best practices).
+
+## 🤝 Let's Connect
+
+* [LinkedIn](https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/florencia-gimenez-745737299/)
+* [Email](florgimenez14@hotmail.com)
+
+---
+
+✨ Every new challenge is an opportunity to learn, grow, and get closer to becoming the professional I aim to be.
