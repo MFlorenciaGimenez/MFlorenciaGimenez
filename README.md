@@ -23,7 +23,7 @@ Passionate about logic, structure, and the challenge of making things work in th
 - Completed the intensive Henry Bootcamp, building several individual and team projects.
 - Highly motivated to keep learning, building, and improving every day.  
 - Strong foundation in **logical thinking and problem-solving** from my Engineering studies (UNLP).  
-- English level: **C2 Proficient (EF SET Certificate)**.  
+- Spanish native speaker - English level: **C2 Proficient (EF SET Certificate)**.  
 
 ---
 
