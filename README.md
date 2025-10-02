@@ -19,7 +19,8 @@ Passionate about logic, structure, and the challenge of making things work in th
 ---
 
 ## 🌱 About Me
-- Currently completing an intensive **Henry Bootcamp** as a Full Stack Developer with a focus on **Backend**.  
+- Jr Full Stack Developer with a strong interest in Backend development.**.
+- Completed the intensive Henry Bootcamp, building several individual and team projects.
 - Highly motivated to keep learning, building, and improving every day.  
 - Strong foundation in **logical thinking and problem-solving** from my Engineering studies (UNLP).  
 - English level: **C2 Proficient (EF SET Certificate)**.  
