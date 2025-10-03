@@ -19,7 +19,7 @@ Passionate about logic, structure, and the challenge of making things work in th
 ---
 
 ## 🌱 About Me
-- Jr Full Stack Developer with a strong interest in Backend development.**.
+- Jr Full Stack Developer with a strong interest in Backend development.
 - Completed the intensive Henry Bootcamp, building several individual and team projects.
 - Highly motivated to keep learning, building, and improving every day.  
 - Strong foundation in **logical thinking and problem-solving** from my Engineering studies (UNLP).  
