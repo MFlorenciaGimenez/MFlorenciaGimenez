@@ -29,7 +29,7 @@ Passionate about logic, structure, and the challenge of making things work in th
 - Spanish native speaker — English level: **C2 Proficient (EF SET Certificate)**.
 
 ### 🌐 Portfolio
- **[(https://mflorencia.vercel.app/)]**  
+ **https://mflorencia.vercel.app/**  
 
 ---
 
